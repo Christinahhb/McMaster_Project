@@ -1,0 +1,719 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000       192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=8/2048, ttl=1 (no response found!)
+
+Frame 1: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.002586       192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=9/2304, ttl=1 (no response found!)
+
+Frame 2: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 0.004448       192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=10/2560, ttl=1 (no response found!)
+
+Frame 3: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      4 1.018139       192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=11/2816, ttl=2 (no response found!)
+
+Frame 4: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 1.039227       192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=12/3072, ttl=2 (no response found!)
+
+Frame 5: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 1.054407       192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=13/3328, ttl=2 (no response found!)
+
+Frame 6: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 6.614607       192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=14/3584, ttl=3 (no response found!)
+
+Frame 7: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 10.235939      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=15/3840, ttl=3 (no response found!)
+
+Frame 8: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 14.243078      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=16/4096, ttl=3 (no response found!)
+
+Frame 9: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     10 18.241095      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=17/4352, ttl=4 (no response found!)
+
+Frame 10: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 18.252954      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=18/4608, ttl=4 (no response found!)
+
+Frame 11: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     12 22.241282      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=19/4864, ttl=4 (no response found!)
+
+Frame 12: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 23.279312      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=20/5120, ttl=5 (no response found!)
+
+Frame 13: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 27.233695      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=21/5376, ttl=5 (no response found!)
+
+Frame 14: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 27.245800      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=22/5632, ttl=5 (no response found!)
+
+Frame 15: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 31.255176      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=23/5888, ttl=6 (no response found!)
+
+Frame 16: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 31.266863      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=24/6144, ttl=6 (no response found!)
+
+Frame 17: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 31.278909      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=25/6400, ttl=6 (no response found!)
+
+Frame 18: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 32.318400      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=26/6656, ttl=7 (no response found!)
+
+Frame 19: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 32.331507      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=27/6912, ttl=7 (no response found!)
+
+Frame 20: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 32.345548      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=28/7168, ttl=7 (no response found!)
+
+Frame 21: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 33.368345      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=29/7424, ttl=8 (no response found!)
+
+Frame 22: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 33.381111      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=30/7680, ttl=8 (no response found!)
+
+Frame 23: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 33.394144      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=31/7936, ttl=8 (no response found!)
+
+Frame 24: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 38.974486      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=32/8192, ttl=9 (no response found!)
+
+Frame 25: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 38.990365      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=33/8448, ttl=9 (no response found!)
+
+Frame 26: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 39.004644      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=34/8704, ttl=9 (no response found!)
+
+Frame 27: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 40.065093      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=35/8960, ttl=10 (no response found!)
+
+Frame 28: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 40.080927      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=36/9216, ttl=10 (no response found!)
+
+Frame 29: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 40.099866      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=37/9472, ttl=10 (no response found!)
+
+Frame 30: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 45.664107      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=38/9728, ttl=11 (no response found!)
+
+Frame 31: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     32 49.243963      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=39/9984, ttl=11 (no response found!)
+
+Frame 32: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 53.239280      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=40/10240, ttl=11 (no response found!)
+
+Frame 33: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     34 57.245969      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=41/10496, ttl=12 (no response found!)
+
+Frame 34: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 61.237917      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=42/10752, ttl=12 (no response found!)
+
+Frame 35: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     36 65.238217      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=43/11008, ttl=12 (no response found!)
+
+Frame 36: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 69.242615      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=44/11264, ttl=13 (no response found!)
+
+Frame 37: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     38 73.242352      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=45/11520, ttl=13 (no response found!)
+
+Frame 38: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 77.247561      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=46/11776, ttl=13 (no response found!)
+
+Frame 39: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     40 81.250581      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=47/12032, ttl=14 (no response found!)
+
+Frame 40: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     41 85.249728      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=48/12288, ttl=14 (no response found!)
+
+Frame 41: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     42 89.236432      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=49/12544, ttl=14 (no response found!)
+
+Frame 42: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     43 93.240382      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=50/12800, ttl=15 (no response found!)
+
+Frame 43: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     44 97.242252      192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=51/13056, ttl=15 (no response found!)
+
+Frame 44: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 101.233876     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=52/13312, ttl=15 (no response found!)
+
+Frame 45: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     46 105.258805     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=53/13568, ttl=16 (no response found!)
+
+Frame 46: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 109.235729     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=54/13824, ttl=16 (no response found!)
+
+Frame 47: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     48 113.241370     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=55/14080, ttl=16 (no response found!)
+
+Frame 48: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     49 117.237865     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=56/14336, ttl=17 (no response found!)
+
+Frame 49: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 121.236170     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=57/14592, ttl=17 (no response found!)
+
+Frame 50: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     51 125.234319     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=58/14848, ttl=17 (no response found!)
+
+Frame 51: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     52 129.236062     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=59/15104, ttl=18 (no response found!)
+
+Frame 52: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 133.243736     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=60/15360, ttl=18 (no response found!)
+
+Frame 53: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     54 137.247681     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=61/15616, ttl=18 (no response found!)
+
+Frame 54: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 141.245757     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=62/15872, ttl=19 (no response found!)
+
+Frame 55: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     56 145.243794     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=63/16128, ttl=19 (no response found!)
+
+Frame 56: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     57 149.253387     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=64/16384, ttl=19 (no response found!)
+
+Frame 57: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 153.247720     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=65/16640, ttl=20 (no response found!)
+
+Frame 58: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 157.230900     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=66/16896, ttl=20 (no response found!)
+
+Frame 59: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 161.235154     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=67/17152, ttl=20 (no response found!)
+
+Frame 60: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 165.250294     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=68/17408, ttl=21 (no response found!)
+
+Frame 61: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     62 169.236812     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=69/17664, ttl=21 (no response found!)
+
+Frame 62: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     63 173.243213     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=70/17920, ttl=21 (no response found!)
+
+Frame 63: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     64 177.243711     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=71/18176, ttl=22 (no response found!)
+
+Frame 64: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     65 181.255164     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=72/18432, ttl=22 (no response found!)
+
+Frame 65: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     66 185.243034     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=73/18688, ttl=22 (no response found!)
+
+Frame 66: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     67 189.243513     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=74/18944, ttl=23 (no response found!)
+
+Frame 67: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     68 193.243848     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=75/19200, ttl=23 (no response found!)
+
+Frame 68: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     69 197.240140     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=76/19456, ttl=23 (no response found!)
+
+Frame 69: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     70 201.235167     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=77/19712, ttl=24 (no response found!)
+
+Frame 70: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     71 205.239871     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=78/19968, ttl=24 (no response found!)
+
+Frame 71: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     72 209.235167     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=79/20224, ttl=24 (no response found!)
+
+Frame 72: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     73 213.236589     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=80/20480, ttl=25 (no response found!)
+
+Frame 73: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     74 217.240948     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=81/20736, ttl=25 (no response found!)
+
+Frame 74: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     75 221.249781     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=82/20992, ttl=25 (no response found!)
+
+Frame 75: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     76 225.238311     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=83/21248, ttl=26 (no response found!)
+
+Frame 76: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     77 229.235623     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=84/21504, ttl=26 (no response found!)
+
+Frame 77: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     78 233.241038     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=85/21760, ttl=26 (no response found!)
+
+Frame 78: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     79 237.250752     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=86/22016, ttl=27 (no response found!)
+
+Frame 79: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     80 241.252389     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=87/22272, ttl=27 (no response found!)
+
+Frame 80: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     81 245.245840     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=88/22528, ttl=27 (no response found!)
+
+Frame 81: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     82 249.248058     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=89/22784, ttl=28 (no response found!)
+
+Frame 82: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     83 253.244658     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=90/23040, ttl=28 (no response found!)
+
+Frame 83: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     84 257.232301     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=91/23296, ttl=28 (no response found!)
+
+Frame 84: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     85 261.252966     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=92/23552, ttl=29 (no response found!)
+
+Frame 85: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     86 265.236504     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=93/23808, ttl=29 (no response found!)
+
+Frame 86: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     87 269.238410     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=94/24064, ttl=29 (no response found!)
+
+Frame 87: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     88 273.232364     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=95/24320, ttl=30 (no response found!)
+
+Frame 88: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     89 277.244177     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=96/24576, ttl=30 (no response found!)
+
+Frame 89: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     90 281.243749     192.168.2.12          99.236.34.223         ICMP     106    Echo (ping) request  id=0x0001, seq=97/24832, ttl=30 (no response found!)
+
+Frame 90: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{32B55D77-25AA-4BC4-8ACA-82B27C2BC887}, id 0
+Ethernet II, Src: IntelCor_3c:fb:c7 (e0:d4:64:3c:fb:c7), Dst: Sagemcom_eb:f9:49 (34:5d:9e:eb:f9:49)
+Internet Protocol Version 4, Src: 192.168.2.12, Dst: 99.236.34.223
+Internet Control Message Protocol
